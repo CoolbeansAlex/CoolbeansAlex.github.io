@@ -1,0 +1,39 @@
+body{
+    background-color: #e9edde;
+    font-family: 'Shadows Into Light Two', cursive;
+    color: #d05353;
+}
+h2{
+    font-family: 'Shadows Into Light Two', cursive;
+}
+header{
+    text-align: Center;
+    color: #d05353;
+    background: url("images/Fam.jpg");
+    background-size: 1130px;
+    border: 7px solid white;
+    border-radius: 20px;
+        display: block;
+    
+    
+    
+}
+li{
+    font-family: 'Shadows Into Light Two', cursive;
+    color: #FFFFFF;
+    
+}
+img{
+    border: 7px solid white;
+    margin: auto;
+    border-radius: 20px;
+        display: block;
+}
+header-links{
+    padding: 10px 10px 10px 10px;
+    background: rgba(0,0,0,0.5);
+}
+a{
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 2em;
+}
