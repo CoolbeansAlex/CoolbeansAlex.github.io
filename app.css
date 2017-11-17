@@ -10,7 +10,7 @@ header{
     text-align: Center;
     color: #d05353;
     background: url("images/Fam.jpg");
-    background-size: 1130px;
+    background-size:cover;
     border: 7px solid white;
     border-radius: 20px;
         display: block;
